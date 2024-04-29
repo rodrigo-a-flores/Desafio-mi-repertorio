@@ -6,4 +6,4 @@ conexión a PostgreSQL, Insertar registros, Consultar registros, Actualizar regi
 registros.
 
 ## Funcionamiento
-Ingresa a este link para visualizar el proyecto desplegado en RENDER: [Deploy Proyect](https://desafio-blackandwhite.onrender.com/)
+Ingresa a este link para visualizar el proyecto desplegado en RENDER: [Deploy Proyect](https://desafio-mi-repertorio.onrender.com/)
